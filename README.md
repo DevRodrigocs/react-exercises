@@ -80,6 +80,18 @@ Features:
 
 ---
 
+### 🟥 Square Effect Cleanup
+A component that demonstrates React’s useEffect for side effects and cleanup.
+Features:
+
+- Logs messages on mount and unmount
+- Shows how to use cleanup functions in useEffect
+
+![Square Effect Cleanup](screenshots/cleanup.png)
+![Square Effect Cleanup](screenshots/cleanup2.png)
+
+---
+
 ## 🛠️ Technologies Used
 - **React** → Component-based UI
 - **TypeScript** → Static typing & safer code
