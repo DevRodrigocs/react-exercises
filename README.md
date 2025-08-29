@@ -92,6 +92,22 @@ Features:
 
 ---
 
+### 🟦 Effects Example
+A component that demonstrates React’s useEffect for handling side effects in functional components.
+
+Features:
+
+- Executes code when the component mounts and updates
+- Demonstrates dependency arrays in useEffect
+- Shows how to perform actions like logging or fetching data
+- Includes cleanup logic to prevent memory leaks
+
+![Square Effect Cleanup](screenshots/effects1.png)
+![Square Effect Cleanup](screenshots/effects2.png)
+![Square Effect Cleanup](screenshots/effects3.png)
+
+---
+
 ## 🛠️ Technologies Used
 - **React** → Component-based UI
 - **TypeScript** → Static typing & safer code
