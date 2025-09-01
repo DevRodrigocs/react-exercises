@@ -3,11 +3,24 @@
 A curated collection of React projects built to explore and practice modern web development concepts.  
 Each project focuses on a specific skill, from state management to conditional rendering and styled components.
 
+> This repository contains React exercises developed as part of my learning journey in modern web development.
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository  
+   `git clone https://github.com/your-username/react-exercises.git`
+2. Install dependencies  
+   `npm install`
+3. Start the project  
+   `npm start`
+
 ---
 
 ## 📂 Projects Included
 
-### 📝 Quiz
+### 📝 [Quiz](./quiz)
 An interactive quiz application with multiple-choice questions.  
 Features:
 - Dynamic question rendering
@@ -21,7 +34,27 @@ Features:
 
 ---
 
-### 😀 Rating via Emoji
+### 🟩 [Reducer To-Do List](./reducer)
+A component that demonstrates React’s useReducer hook for managing complex state in a to-do list application.
+
+Features:
+
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Centralized state management using reducer logic
+- Clean UI for task interaction
+
+![Reducer Screenshot](screenshots/reducer1.png)  
+![Reducer Screenshot](screenshots/reducer2.png)
+![Reducer Screenshot](screenshots/reducer3.png)
+![Reducer Screenshot](screenshots/reducer4.png)
+![Reducer Screenshot](screenshots/reducer5.png)
+![Reducer Screenshot](screenshots/reducer6.png)
+![Reducer Screenshot](screenshots/reducer7.png)
+
+---
+
+### 😀 [Rating via Emoji](./rating-via-emoji)
 A fun rating system where users can evaluate using emojis.  
 Features:
 - Emoji-based rating selection
@@ -36,7 +69,7 @@ Features:
 
 ---
 
-### 🧑‍🎓 Student Grades
+### 🧑‍🎓 [Student Grades](./student-grades)
 A grade management tool that displays and calculates student performance.  
 Features:
 - Student list rendering
@@ -47,7 +80,7 @@ Features:
 
 ---
 
-### 📸 Photo Gallery
+### 📸 [Photo Gallery](./photo-gallery)
 A responsive photo gallery application.  
 Features:
 - Image grid layout
@@ -59,7 +92,7 @@ Features:
 
 ---
 
-### 🖐️ Greeting Condition
+### 🖐️ [Greeting Condition](./greeting-cond)
 An app that shows different greetings depending on conditions (like time or user input).  
 Features:
 - Conditional rendering
@@ -69,7 +102,7 @@ Features:
 
 ---
 
-### ✍️ Full Name
+### ✍️ [Full Name](./full-name)
 A simple form to display and update a user's full name.  
 Features:
 - Real-time input handling
@@ -80,7 +113,7 @@ Features:
 
 ---
 
-### 🟥 Square Effect Cleanup
+### 🟥 [Square Effect Cleanup](./cleanup)
 A component that demonstrates React’s useEffect for side effects and cleanup.
 Features:
 
@@ -92,7 +125,7 @@ Features:
 
 ---
 
-### 🟦 Effects Example
+### 🟦 [Effects Example](./effects)
 A component that demonstrates React’s useEffect for handling side effects in functional components.
 
 Features:
@@ -102,9 +135,9 @@ Features:
 - Shows how to perform actions like logging or fetching data
 - Includes cleanup logic to prevent memory leaks
 
-![Square Effect Cleanup](screenshots/effects1.png)
-![Square Effect Cleanup](screenshots/effects2.png)
-![Square Effect Cleanup](screenshots/effects3.png)
+![Effects Example](screenshots/effects1.png)
+![Effects Example](screenshots/effects2.png)
+![Effects Example](screenshots/effects3.png)
 
 ---
 
