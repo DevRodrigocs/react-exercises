@@ -54,6 +54,20 @@ Features:
 
 ---
 
+### 🎬 [Real Effect Video Player](./real-effect)
+
+A component that demonstrates how to control a video element using React state and effects.
+
+Features:
+- Play and pause video programmatically
+- Syncs video playback with component state
+- Demonstrates useRef and useEffect for DOM manipulation
+
+![Real Effect Video Player Screenshot](screenshots/real-effect1.png)
+![Real Effect Video Player Screenshot](screenshots/real-effect2.png)
+
+---
+
 ### 😀 [Rating via Emoji](./rating-via-emoji)
 A fun rating system where users can evaluate using emojis.  
 Features:
