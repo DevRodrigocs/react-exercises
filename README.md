@@ -155,6 +155,19 @@ Features:
 
 ---
 
+### 🟦 [Context Online Users](./context)
+A simple exercise demonstrating the use of **React Context API**.
+
+Features:
+- Displays the number of online users
+- **"Ban all"** button that resets the counter
+- Uses `Context.Provider` and `useContext` to share state
+
+![Context Screenshot](screenshots/context1.png)  
+![Context Screenshot](screenshots/context2.png)
+
+---
+
 ## 🛠️ Technologies Used
 - **React** → Component-based UI
 - **TypeScript** → Static typing & safer code
