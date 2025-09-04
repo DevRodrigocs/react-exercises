@@ -168,6 +168,20 @@ Features:
 
 ---
 
+### 👤 [Context Logged User](./context-for-logged-user)
+A simple exercise demonstrating the use of **React Context API** to handle user authentication state.
+
+Features:
+- Provides a global context for the logged-in user
+- Displays the current logged user information
+- Example of consuming context with `useContext`
+- Clean and minimal structure for learning purposes
+
+![Context Logged Screenshot](screenshots/logged1.png)  
+![Context Logged Screenshot](screenshots/logged2.png)
+
+---
+
 ## 🛠️ Technologies Used
 - **React** → Component-based UI
 - **TypeScript** → Static typing & safer code
