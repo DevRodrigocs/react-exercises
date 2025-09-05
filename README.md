@@ -68,6 +68,22 @@ Features:
 
 ---
 
+### 🗂️ [Context With Reducer](./context-with-reducer)
+An exercise demonstrating how to combine **React Context API** with the `useReducer` hook for advanced state management.
+
+Features:
+- Global context for managing a list of posts
+- Uses reducer logic for predictable state updates
+- Persists posts in local storage
+- Example of dispatching actions from any component
+- Clean separation of context and reducer logic
+
+![Context With Reducer Screenshot](screenshots/history.png)  
+![Context With Reducer Screenshot](screenshots/history1.png)
+![Context With Reducer Screenshot](screenshots/history2.png)
+
+---
+
 ### 😀 [Rating via Emoji](./rating-via-emoji)
 A fun rating system where users can evaluate using emojis.  
 Features:
