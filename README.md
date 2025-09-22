@@ -198,6 +198,18 @@ Features:
 
 ---
 
+### 🌙 [Dark Theme](./dark-theme)
+A simple exercise demonstrating how to implement a dark/light theme toggle using **React Context API**.
+
+Features:
+- Global theme state managed via context
+- Toggle between dark and light modes
+- Example of custom context provider and consumer
+- Minimal UI with a theme switch button
+
+![Dark Theme Screenshot](screenshots/Dark.png)  
+![Dark Theme Screenshot](screenshots/Dark2.png)
+
 ## 🛠️ Technologies Used
 - **React** → Component-based UI
 - **TypeScript** → Static typing & safer code
