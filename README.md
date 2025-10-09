@@ -68,6 +68,24 @@ Features:
 
 ---
 
+### 📝 [Chat with History](./chat-with-history)
+A simple interactive chat application with message history.
+
+Features:
+- User name input and validation
+- Real-time message sending and display
+- Message history with user/bot distinction
+- Responsive and modern UI
+
+![Chat Screenshot](screenshots/chat1.png)
+![Chat Screenshot](screenshots/chat2.png)
+![Chat Screenshot](screenshots/chat3.png)
+![Chat Screenshot](screenshots/chat4.png)
+![Chat Screenshot](screenshots/chat5.png)
+![Chat Screenshot](screenshots/chat6.png)
+
+---
+
 ### 🗂️ [Context With Reducer](./context-with-reducer)
 An exercise demonstrating how to combine **React Context API** with the `useReducer` hook for advanced state management.
 
